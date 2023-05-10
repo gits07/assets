@@ -1,4 +1,4 @@
-﻿var OPENAI_API_KEY = "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";
+﻿var OPENAI_API_KEY = "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";
 var ELEVEN_LABS_API_KEY = "8c127d02d4fd781a75a07a2dfc98b86a";
 var sVoiceId = "21m00Tcm4TlvDq8ikWAM"; //Rachel
 var bSpeechInProgress = false;
